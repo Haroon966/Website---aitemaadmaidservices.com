@@ -13,8 +13,7 @@ This repository contains the source code for the Aitemaad Maid Services website.
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: (If applicable, specify backend technologies here)
-- **Database**: (If applicable, specify database)
+- **FrameWork**: React
 
 ## Installation
 
